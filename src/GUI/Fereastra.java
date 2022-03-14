@@ -26,8 +26,8 @@ public class Fereastra extends JFrame
 	        Load p;
 	        p = new Load();
 	        p.LoadFile();
-	        Save w;
+	        /*Save w;
 	        w = new Save();
-	        w.SaveInFile();
+	        w.SaveInFile();*/
 	    }
 }
